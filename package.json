@@ -57,5 +57,7 @@
     "@types/node": "^24.0.0",
     "electron": "44.9.3",
     "ws": "8.21.3"
-  }
+  },
+  "description": "An isometric action RPG: fight under a night storm, find loot, level up and shape your character on a skill tree of 125 places.",
+  "license": "MIT"
 }
